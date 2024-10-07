@@ -1,0 +1,13 @@
+.App {
+  padding: 30px;
+  display: flex;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
